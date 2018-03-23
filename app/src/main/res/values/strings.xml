@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">SampleFacebookClone</string>
+    <string name="what_s_your_name">What\'s Your Name?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="next">Next</string>
+    <string name="what_s_your_gender">What\'s Your gender?</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="what_s_your_email">What\'s Your Email?</string>
+    <string name="what_s_your_password">What\'s Your Password?</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="what_s_your_birthday">What\'s Your Birthday?</string>
+    <string name="name">Name</string>
+    <string name="intent_first_name">first_name</string>
+    <string name="intent_last_name">last_name</string>
+    <string name="birthday">Birthday</string>
+    <string name="gender">Gender</string>
+    <string name="intent_month">birth_month</string>
+    <string name="intent_year">birth_year</string>
+    <string name="intent_date">birth_date</string>
+    <string name="intent_gender">gender</string>
+    <string name="intent_email">email</string>
+
+
+    <string name="fragment_name">Name Fragment</string>
+    <string name="fragment_birthday">Birthday Fragment</string>
+    <string name="fragment_email">Email Fragment</string>
+    <string name="fragment_password">Password Fragment</string>
+    <string name="fragment_gender">Gender Fragment</string>
+    <string name="intent_password">password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
 </resources>

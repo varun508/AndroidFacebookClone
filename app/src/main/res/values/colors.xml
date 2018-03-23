@@ -7,4 +7,7 @@
 
     <color name="fb_blue">#3B5999</color>
     <color name="fb_light_blue">#4F69A2</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
 </resources>
